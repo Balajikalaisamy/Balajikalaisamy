@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balajikalaisamy
 - 👀 I’m interested in data Analayst Profession
-- 🌱 I’m currently learning Excel, VBA,Power BI,SQL
+- 🌱 I’m currently learning Excel, VBA,Power BI,SQL,n8n
 <!---
 Balajikalaisamy/Balajikalaisamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
