@@ -25,8 +25,7 @@ I'm actively transitioning into a **Data Analyst** role, combining technical exp
 | Excel & VBA      | Automate reports, clean data, and build dynamic models |
 | Power BI & DAX   | Create interactive dashboards and custom metrics       |
 | SQL              | Query, join, and analyze relational data               |
-| Python           | Analyze, visualize, and automate with pandas/matplotlib|
-| Power Automate   | Build low-code workflows for business efficiency       |
+| Python           | Analyze, visualize, and automate with pandas/matplotlib|     
 | n8n              | Design open-source automation pipelines                |
 
 ## 🎯 Current Goals
