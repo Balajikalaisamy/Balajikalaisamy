@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
- <img width="784" height="535" alt="Untitled picture" src="https://github.com/user-attachments/assets/f8449d53-b219-4d35-9d5a-1c04e8a78972"/>"
+ <img width="784" height="535" "alt="Untitled picture" src="https://github.com/user-attachments/assets/5700f55a-a90d-4c90-a2f8-aa47117fa362"/>
 </p>
 
 # 👋 Hi, I'm Balaji Kalaisamy
