@@ -1,7 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="<img width="1536" height="1024" alt="create a professiona" src="https://github.com/user-attachments/assets/ce857486-019e-446e-b52e-67c52876da4b" />
-" alt="Balaji Kalaisamy - Data Analyst Introduction" width="600"/>
+ <img width="784" height="535" alt="Untitled picture" src="https://github.com/user-attachments/assets/f8449d53-b219-4d35-9d5a-1c04e8a78972"/>"
 </p>
 
 # 👋 Hi, I'm Balaji Kalaisamy
